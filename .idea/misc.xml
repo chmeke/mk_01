@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/aop" location="D:/software/program/schema/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="D:/software/program/schema/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="D:/software/program/schema/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="D:/software/program/schema/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="D:/software/program/schema/spring-tx-4.2.xsd" />
+  </component>
+</project>
